@@ -16,21 +16,21 @@
   </style>
 </head>
 <body>
-  <h1>Privacy Policy for Cosmic Rush</h1>
-  <p><strong>Effective Date:</strong> [Today’s Date]</p>
+  <h1>Privacy Policy for Cosmik Rush</h1>
+  <p><strong>Effective Date:</strong>September 8th 2025</p>
 
-  <p>Cosmic Rush is a simple retro-style game built with SpriteKit. We respect your privacy. This app does not collect, store, use, or share any personal information.</p>
+  <p>Cosmik Rush is a simple retro-style game built with SpriteKit. We respect your privacy. This app does not collect, store, use, or share any personal information.</p>
 
   <h2>Information Collection</h2>
-  <p>Cosmic Rush does not collect any personal or non-personal data from users. No analytics, tracking, or advertising SDKs are integrated.</p>
+  <p>Cosmik Rush does not collect any personal or non-personal data from users. No analytics, tracking, or advertising SDKs are integrated.</p>
 
   <h2>Third-Party Services</h2>
   <p>This app does not use any third-party services that collect information.</p>
 
   <h2>Contact</h2>
   <p>If you have questions about this privacy policy, please contact us at:</p>
-  <p><a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p><a href="mailto:raultovarcon@gmail.com">raultovarcon@gmail.com</a></p>
 
-  <p>Thank you for playing Cosmic Rush!</p>
+  <p>Thank you for playing Cosmik Rush!</p>
 </body>
 </html>
